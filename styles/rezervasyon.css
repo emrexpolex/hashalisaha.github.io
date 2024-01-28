@@ -1,0 +1,280 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}.rezervasyon-YcU {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #13ba19;
+}
+.rezervasyon-YcU .auto-group-zyfe-wPi {
+  width: 182.5rem;
+  height: 19.4rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 87.1rem;
+  display: flex;
+  align-items: center;
+}
+.rezervasyon-YcU .auto-group-zyfe-wPi .hakkmzda-tecrbeli-teknik-kadromuz-ile-gvenilir-ve-verimli-ekip-olma-anlayyla-mteri-memnuniyeti-ve-kalite-ile-birlikte-zamanndalk-ilkelerinden-dn-vermeden-lke-ve-dnya-standartlarna-uygun-olarak-hizmet-sunmaktayz-t5z {
+  margin-right: 19.8rem;
+  max-width: 106.5rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-zyfe-wPi .iletiim-zYL {
+  margin-top: 1rem;
+  max-width: 56.2rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .gnder-gRA {
+  width: 12rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 93.5rem;
+  top: 73.6rem;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .telefonrezervasyon-aFe {
+  width: 38.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 70.4rem;
+  background-color: #ffffff;
+}
+.rezervasyon-YcU .telefon--5y6 {
+  width: 13.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 66.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .emailrezervasyon-zqA {
+  width: 38.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 61.6rem;
+  background-color: #ffffff;
+}
+.rezervasyon-YcU .email--7et {
+  width: 10.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 57.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .adsoyadrezervasyon-DT2 {
+  width: 38.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 52.4rem;
+  background-color: #ffffff;
+}
+.rezervasyon-YcU .ad-soyad--9rU {
+  width: 17rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 48.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .balangbitisaatiform-s1n {
+  width: 38.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 44rem;
+  background-color: #ffffff;
+}
+.rezervasyon-YcU .balang-biti-saati--nPe {
+  width: 35.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 40rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .tarih-form-reQ {
+  width: 38.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 35rem;
+  background-color: #ffffff;
+}
+.rezervasyon-YcU .tarih--PeL {
+  width: 10rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 30.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .rezervasyon-formu-HDv {
+  width: 36.3rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 70.9rem;
+  top: 21rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi {
+  width: 185.9rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 1.8rem;
+  display: flex;
+  align-items: center;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .logo-gmr {
+  margin: 0.6rem 36.3rem 0rem 0rem;
+  width: 58.8rem;
+  height: 11.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .anasayfa-bdv {
+  margin: 4.4rem 10rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .hakkmzda-iCk {
+  margin: 4.4rem 10.8rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .iletiim-pma {
+  margin: 4.4rem 8.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .auto-group-grsc-w5W {
+  margin-bottom: 2.1rem;
+  width: 19.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .auto-group-grsc-w5W .auto-group-vkzg-4vp {
+  margin: 0rem 1.9rem 2rem 7.6rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .auto-group-grsc-w5W .auto-group-vkzg-4vp .instagram-BVe {
+  margin-right: 1.9rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .auto-group-grsc-w5W .auto-group-vkzg-4vp .twitter-78Q {
+  width: 4rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.rezervasyon-YcU .auto-group-emyp-ayi .auto-group-grsc-w5W .rezervasyon-ee8 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
