@@ -1,0 +1,190 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}.hakkimizda-erG {
+  box-sizing: border-box;
+  padding: 1.8rem 3.4rem 1.5rem 2.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #13ba19;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi {
+  margin-bottom: 5.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .logo-uGQ {
+  margin: 0.6rem 36.3rem 0rem 0rem;
+  width: 58.8rem;
+  height: 11.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .anasayfa-osa {
+  margin: 4.4rem 10rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .hakkmzda-uQp {
+  margin: 4.4rem 10.8rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .iletiim-1Cx {
+  margin: 4.4rem 8.4rem 0rem 0rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .auto-group-q6lc-uZE {
+  margin-bottom: 2.1rem;
+  width: 19.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .auto-group-q6lc-uZE .auto-group-pqjc-T4x {
+  margin: 0rem 1.9rem 2rem 7.6rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .auto-group-q6lc-uZE .auto-group-pqjc-T4x .instagram-aQU {
+  margin-right: 1.9rem;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .auto-group-q6lc-uZE .auto-group-pqjc-T4x .twitter-K7A {
+  width: 4rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-dpsc-AZi .auto-group-q6lc-uZE .rezervasyon-4Ke {
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .hakkimizda-o2L {
+  margin: 0rem 2.4rem 6.4rem 0rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-95ts-iuz {
+  margin: 0rem 1.9rem 16.7rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-95ts-iuz .d81955833d304ca9a163cf7cd30d37fd-1-Fuv {
+  margin: 0rem 8.9rem 1.4rem 0rem;
+  width: 36.4rem;
+  height: 28.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-95ts-iuz .tecrbeli-teknik-kadromuz-ile-gvenilir-ve-verimli-ekip-olma-anlayyla-mteri-memnuniyeti-ve-kalite-ile-birlikte-zamanndalk-ilkelerinden-dn-vermeden-lke-ve-dnya-standartlarna-uygun-olarak-hizmet-sunmaktayz-hizmet-kalitesi-ve-bunun-ile-balantl-olarak-mteri-memnuniyeti-arttrmaya-ynelik-almalarmz-srekli-olarak-devam-etmektedir-teknolojinin-katklar-ile-siz-deerleri-mterilerimize-her-noktada-sorunlarnz-giderme-ve-destek-olmak-iin-durmakszn-alyoruz-B2t {
+  margin-right: 9.5rem;
+  max-width: 91rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-95ts-iuz .hakkmzda-resim-4kt {
+  margin-bottom: 1.4rem;
+  width: 36.4rem;
+  height: 28.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-wcnx-zeY {
+  margin: 0rem 3.2rem 0rem 0.2rem;
+  width: calc(100% - 3.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-wcnx-zeY .hakkmzda-tecrbeli-teknik-kadromuz-ile-gvenilir-ve-verimli-ekip-olma-anlayyla-mteri-memnuniyeti-ve-kalite-ile-birlikte-zamanndalk-ilkelerinden-dn-vermeden-lke-ve-dnya-standartlarna-uygun-olarak-hizmet-sunmaktayz-iqS {
+  margin-right: 19.8rem;
+  max-width: 106.5rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hakkimizda-erG .auto-group-wcnx-zeY .iletiim-9fr {
+  margin-top: 1rem;
+  max-width: 56.2rem;
+  cursor: pointer;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
